@@ -1,1 +1,4 @@
+Hello World from merge-conflict branch!
+and
 Hello from feature branch!
+after successful merge conflict!
